@@ -1,0 +1,6 @@
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\bin\Debug\threadDll.dll
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\bin\Debug\threadDll.pdb
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\bin\Debug\threadDll.tlb
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\obj\Debug\threadDll.dll
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\obj\Debug\threadDll.pdb
+C:\Users\jduduka\Dropbox\WinwrapComNet\threadDllCom\threadDll\threadDll\obj\Debug\threadDll.csprojResolveAssemblyReference.cache
